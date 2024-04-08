@@ -1,0 +1,14 @@
+.btn-yellow
+{
+  color: black;
+  background: RGB(229 168 14);
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  border-radius: 4px;
+  padding: 15px 20px;
+  transition: color 0.5s ease;
+  text-decoration: none;
+}
+.btn-yellow:hover {
+  background: black;
+  color: RGB(229 168 14);
+}
